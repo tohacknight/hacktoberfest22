@@ -37,11 +37,16 @@ Scritti in Rust:
 
 Scritti in Go:
 
-- [Go Hacktoberfest](https://github.com/topics/hacktoberfest?l=go), list di progetti go taggati con hacktoberfest
-- [go-jsonschema](https://github.com/omissis/go-jsonschema), A tool to generate Go data types from JSON Schema definitions.
-- [goarkitect](https://github.com/omissis/goarkitect), Describe and check architectural constraints of a Go project using a composable set of rules described in one or multiple yaml files.
-- [spago](https://github.com/nlpodyssey/spago), Self-contained Machine Learning and Natural Language Processing library in Go
-- [cybertron](https://github.com/nlpodyssey/cybertron), Simple and easy-to-use interface for cutting-edge Natural Language Processing (NLP) technologies.
+- [Go Hacktoberfest](https://github.com/topics/hacktoberfest?l=go), list of Go projects tagged with "hacktoberfest"
+- [go-jsonschema](https://github.com/omissis/go-jsonschema), a tool to generate Go data types from JSON Schema definitions.
+- [goarkitect](https://github.com/omissis/goarkitect), describe and check architectural constraints of a Go project using a composable set of rules described in one or multiple yaml files.
+- [spago](https://github.com/nlpodyssey/spago), self-contained Machine Learning and Natural Language Processing library in Go.
+- [cybertron](https://github.com/nlpodyssey/cybertron), simple and easy-to-use interface for cutting-edge Natural Language Processing (NLP) technologies.
+- [capsule](https://github.com/clastix/capsule), multi-tenancy and policy-based framework for Kubernetes.
+- [kamaji](https://github.com/clastix/kamaji), build and operate Kubernetes at scale with a fraction of operational burden.
+- [inspektor gadget](https://github.com/kinvolk/inspektor-gadget), introspecting and debugging Kubernetes applications using eBPF "gadgets".
+- [permission manager](https://github.com/sighupio/permission-manager), permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW.
+
 
 
 ### Altre opzioni
