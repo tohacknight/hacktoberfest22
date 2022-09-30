@@ -35,6 +35,15 @@ Scritti in Rust:
 - Rust-av, https://github.com/rust-av, multimedia in rust
 - rav1e, https://github.com/xiph/rav1e, un encoder AV1 scritto in rust (ed assembly)
 
+Scritti in Go:
+
+- [Go Hacktoberfest](https://github.com/topics/hacktoberfest?l=go), list di progetti go taggati con hacktoberfest
+- [go-jsonschema](https://github.com/omissis/go-jsonschema), A tool to generate Go data types from JSON Schema definitions.
+- [goarkitect](https://github.com/omissis/goarkitect), Describe and check architectural constraints of a Go project using a composable set of rules described in one or multiple yaml files.
+- [spago](https://github.com/nlpodyssey/spago), Self-contained Machine Learning and Natural Language Processing library in Go
+- [cybertron](https://github.com/nlpodyssey/cybertron), Simple and easy-to-use interface for cutting-edge Natural Language Processing (NLP) technologies.
+
+
 ### Altre opzioni
 
 Se non hai già qualche interesse verso un progetto specifico e non hai trovato nessuna idea interessante proposta dagli altri partecipanti puoi cercare ai seguenti link:
