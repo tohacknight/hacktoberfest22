@@ -34,6 +34,16 @@ Scritti in Rust:
 - Rust Italia, [mdev](https://github.com/rust-italia/mdev), [mdev-parser](https://github.com/rust-italia/mdev-parser) e [kobject-uevent](https://github.com/rust-italia/kobject-uevent), si riscrive un gestore degli eventi kernel simile a [mdev](https://git.busybox.net/busybox/tree/util-linux/mdev.c) di busybox per imparare un po'
 - Rust-av, https://github.com/rust-av, multimedia in rust
 - rav1e, https://github.com/xiph/rav1e, un encoder AV1 scritto in rust (ed assembly)
+- Broot, https://github.com/Canop/broot, un tool da riga di comando per navigare tra le cartelle in modo intelligente
+- OneFetch, https://github.com/o2sh/onefetch, un tool da riga di comando per visualizzare le info di un repo Git
+- Eww, https://github.com/elkowar/eww, un sistema per creare custom widgets per qualsiasi window manager
+- Paru, https://github.com/Morganamilo/paru, un AUR helper per Arch Linux
+- Boa, https://github.com/boa-dev/boa, un motore Javascript sperimentale scritto in Rust
+- Image, https://github.com/image-rs/image, una crate per la manipolazione di immagini
+- Tabled, https://github.com/zhiburt/tabled, una crate per disegnare tabelle sul terminale
+- Rust-rosetta, https://github.com/rust-rosetta/rust-rosetta, implementazioni per [rosettacode](rosettacode.org) in Rust
+- SuckIt, https://github.com/Skallwar/suckit, un tool per visitare e scaricare ricorsivamente il contenuto di un sito
+- Jpeg-decoder, https://github.com/image-rs/jpeg-decoder, una crate per decodificare il formato JPEG
 
 Scritti in Go:
 
