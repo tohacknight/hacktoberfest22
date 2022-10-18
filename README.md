@@ -1,5 +1,7 @@
 # Benvenuta/o a questa serata hacktoberfest 2022
 
+Questo repository si trova all'indirizzo https://github.com/tohacknight/hacktoberfest22
+
 Prima di cominciare ricordati di registrarti qua https://hacktoberfest.com/
 
 Una volta registrata/o puoi monitorare i tuoi progressi qua https://hacktoberfest.com/profile
