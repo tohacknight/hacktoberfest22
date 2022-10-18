@@ -57,7 +57,9 @@ Scritti in Go:
 - [inspektor gadget](https://github.com/kinvolk/inspektor-gadget), introspecting and debugging Kubernetes applications using eBPF "gadgets".
 - [permission manager](https://github.com/sighupio/permission-manager), permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW.
 
+Utilities generiche:
 
+- [tldr](https://github.com/tldr-pages/tldr), collaborative cheatsheets for console commands
 
 ### Altre opzioni
 
